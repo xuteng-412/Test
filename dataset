@@ -1,0 +1,12 @@
+                 数据集名称                                                                                 简要描述                                                  情感类别示例                                     下载链接
+
+IEMOCAP (Interactive Emotional Dyadic Motion Capture)                      包含10名英语说话者的互动对话音频（约12小时），用于情感识别，支持脚本化和即兴情感表达。      愤怒、快乐、悲伤、中性、沮丧                    https://sail.usc.edu/iemocap/  （需注册）
+RAVDESS (Ryerson Audio-Visual Database of Emotional Speech and Song)       24.8 GB的7356个文件，由24名演员录制的英语情感语音和歌曲，支持多模态。                     愤怒、厌恶、恐惧、快乐、悲伤、惊讶、中性         https://zenodo.org/records/1188976
+EMO-DB (Berlin Database of Emotional Speech)                               德语情感语音数据集，535个句子由10名演员以7种情感录制，常用于SER基准测试。                  愤怒、厌倦、厌恶、恐惧、快乐、悲伤、中性         http://emodb.bilderbar.info/docu/（需申请）
+CREMA-D (Crowd-sourced Emotional Multimodal Actors Dataset)                英语多模态数据集，7442个剪辑由91名演员录制，包含音频和视频。                              愤怒、厌恶、恐惧、快乐、悲伤、中性              https://github.com/CheyneyComputerScience/CREMA-D
+TESS (Toronto Emotional Speech Set)                                        加拿大英语情感语音，2800个单词由2名女性演员以7种情感录制。                                愤怒、厌恶、恐惧、快乐、悲伤、惊讶、中性        https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess  
+SAVEE (Surrey Audio-Visual Expressed Emotion)                              英国英语数据集，480个句子由4名男性演员以7种情感录制。                                     愤怒、厌恶、恐惧、快乐、悲伤、惊讶、中性        https://www.kaggle.com/datasets/ejlok1/surrey-audiovisual-expressed-emotion-savee
+ESD (Emotional Speech Dataset)                                             多语言（英语/普通话）情感语音数据集，350个平行句子由20名说话者录制，用于语音转换和合成。     中性、快乐、愤怒、悲伤、惊讶                   https://github.com/HLTSingapore/Emotional-Speech-Data
+MELD (Multimodal EmotionLines Dataset)                                     多模态对话数据集，包含1400个对话的音频和文本，用于对话情感识别。                           愤怒、厌恶、恐惧、快乐、悲伤、惊讶、中性        https://github.com/declare-lab/MELD
+MSP-Podcast                                                                英语播客音频数据集（约62小时），由1000多名说话者录制，支持自然情感标注。                   连续情感维度（效价、激活、支配）                https://lab-msp.com/MSP/MSP-Podcast.html
+EMOVO (Emotional Voice Messages)                                           西班牙语自然语音消息数据集，999个真实对话片段，用于野外情感识别。                          愤怒、快乐、悲伤、惊讶、恐惧、中性              https://arxiv.org/abs/2403.02167（联系作者获取）
